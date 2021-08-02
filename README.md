@@ -1,9 +1,13 @@
-## e-Mahendra-app
+# e-Mahendra-app
 In this app you can get your exam result as well as pay your fees online in mahendra institutions.
 
+## Apk file
+ckeck your processor achitecture than install any 1 apk accordingly,
+if u r using new smartphone go with arm64 apk file. 
+dowload zip file unzip using any "zip file opener" or winrar for android then extract and then insall.
+[e-mahendra.zip](https://github.com/vig31/e-Mahendra-app/files/6915784/e-mahendra.zip)
 
-
-# ScreenShot 
+## ScreenShot 
    ![Screenshot_20210802-135515](https://user-images.githubusercontent.com/40334082/127831034-b13261e8-7c09-41cb-adf3-53e409af7f5d.png)
 
    ![Screenshot_20210802-135521](https://user-images.githubusercontent.com/40334082/127831054-7903dd61-511b-48db-97cb-b9aeb4c05d08.png)
