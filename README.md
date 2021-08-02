@@ -2,7 +2,7 @@
 In this app you can get your exam result as well as pay your fees online in mahendra institutions.
 
 
-# SreenShot 
+# ScreenShot 
    ![Screenshot_20210802-135515](https://user-images.githubusercontent.com/40334082/127831034-b13261e8-7c09-41cb-adf3-53e409af7f5d.png)
 
    ![Screenshot_20210802-135521](https://user-images.githubusercontent.com/40334082/127831054-7903dd61-511b-48db-97cb-b9aeb4c05d08.png)
