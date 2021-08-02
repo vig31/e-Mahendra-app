@@ -1,5 +1,6 @@
-# e-Mahendra-app
+## e-Mahendra-app
 In this app you can get your exam result as well as pay your fees online in mahendra institutions.
+
 
 
 # ScreenShot 
